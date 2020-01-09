@@ -457,6 +457,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:20",
       "name_en": "Kyoto Prefecture",
       "place_id": "ChIJYRsf-SB0_18ROJWxOMJ7Clk",
       "name": "京都府",
@@ -890,6 +891,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:81",
       "name_en": "Saga Prefecture",
       "place_id": "ChIJVVXx4qHSQTUR2vEeH2zUCzA",
       "name": "佐贺县",
@@ -2040,6 +2042,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:91",
       "name_en": "Kumamoto Prefecture",
       "place_id": "ChIJpzy0q613QDUR8fFMMDKVF_I",
       "name": "熊本县",
@@ -2978,6 +2981,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:95",
       "name_en": "Kagawa Prefecture",
       "place_id": "ChIJr363rNTcUzURsdqbibLWgS0",
       "name": "香川县",
@@ -3592,6 +3596,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:104",
       "name_en": "Aichi Prefecture",
       "place_id": "ChIJ5zKTSdW6BGARp0EVGF2mX-s",
       "name": "爱知县",
@@ -3841,6 +3846,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:76",
       "name_en": "Tochigi Prefecture",
       "place_id": "ChIJ7RWXa1VwH2ARB9AguZ5FZW0",
       "name": "栃木县",
@@ -4020,6 +4026,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:70",
       "name_en": "Yamanashi Prefecture",
       "place_id": "ChIJIe5Ck3LjG2ARqm6fj-ToBHM",
       "name": "山梨县",
@@ -4246,6 +4253,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:79",
       "name_en": "Shiga Prefecture",
       "place_id": "ChIJfRcKhFR_AWAR0Ih82zbkEkQ",
       "name": "滋贺县",
@@ -4529,6 +4537,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:99",
       "name_en": "Gunma Prefecture",
       "place_id": "ChIJWa42yIVgHmARknJxiWg1mdc",
       "name": "群马县",
@@ -5458,6 +5467,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:106",
       "name_en": "Miyagi Prefecture",
       "place_id": "ChIJcdzg-92SiF8RraQHUTi5b84",
       "name": "宫城县",
@@ -5919,6 +5929,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:77",
       "name_en": "Shizuoka Prefecture",
       "place_id": "ChIJL8OwjM62G2ARVRZv3-tm-vw",
       "name": "静冈县",
@@ -6201,6 +6212,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:108",
       "name_en": "Ibaraki Prefecture",
       "place_id": "ChIJF8In71sYImARgMV4m4P7Spo",
       "name": "茨城县",
@@ -8124,6 +8136,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:82",
       "name_en": "Okinawa Prefecture",
       "place_id": "ChIJ51ur7mJw9TQR79H9hnJhuzU",
       "name": "冲绳县",
@@ -8425,6 +8438,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:105",
       "name_en": "Yamagata Prefecture",
       "place_id": "ChIJbeLoh3fsi18RXo9kabDE3OY",
       "name": "山形县",
@@ -9129,6 +9143,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:72",
       "name_en": "Wakayama Prefecture",
       "place_id": "ChIJ1wKhtPIEB2ARnU_gb_EzSNQ",
       "name": "和歌山县",
@@ -13520,6 +13535,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:87",
       "name_en": "Nagasaki Prefecture",
       "place_id": "ChIJC46vsRChaTURlUoIqR4qlSQ",
       "name": "长崎县",
@@ -13926,6 +13942,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:111",
       "name_en": "Akita Prefecture",
       "place_id": "ChIJv_Eu0V7rj18REhxcYOz7fZo",
       "name": "秋田县",
@@ -14760,6 +14777,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:83",
       "name_en": "Okayama Prefecture",
       "place_id": "ChIJh5W24jhmVDURU20vGB0GIdI",
       "name": "冈山县",
@@ -15503,6 +15521,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:101",
       "name_en": "Fukuoka Prefecture",
       "place_id": "ChIJJbF-93qBQTURTThRSvsPopc",
       "name": "福冈县",
@@ -15894,6 +15913,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:100",
       "name_en": "Gifu Prefecture",
       "place_id": "ChIJi8OICvLxAmARZ9bM7q0UJ68",
       "name": "岐阜县",
@@ -16375,6 +16395,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:112",
       "name_en": "Aomori Prefecture",
       "place_id": "ChIJR60vIL2bm18Ro_kApp-uBak",
       "name": "青森县",
@@ -16845,6 +16866,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:25",
       "name_en": "Osaka Prefecture",
       "place_id": "ChIJ13DMKmvoAGARbVkfgUj_maM",
       "name": "大阪府",
@@ -17265,6 +17287,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:88",
       "name_en": "Nagano Prefecture",
       "place_id": "ChIJa4zJGCMBHWARlAu_BE8rXAI",
       "name": "长野县",
@@ -18008,6 +18031,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:84",
       "name_en": "Ōita Prefecture",
       "place_id": "ChIJk0fY45VcRDUR4r42cPK3Fz8",
       "name": "大分县",
@@ -19216,6 +19240,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:90",
       "name_en": "Mie Prefecture",
       "place_id": "ChIJY0FHSvU9BGARKIc4ff5ynkI",
       "name": "三重县",
@@ -20630,6 +20655,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:98",
       "name_en": "Hiroshima Prefecture",
       "place_id": "ChIJa_O3GdGJUDURv90VFtIkjqU",
       "name": "广岛县",
@@ -22899,6 +22925,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:57",
       "name_en": "Hokkaido",
       "place_id": "ChIJi4hsnyBZn18RjwPOT1bDPBw",
       "name": "北海道",
@@ -23812,6 +23839,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:97",
       "name_en": "Hyōgo Prefecture",
       "place_id": "ChIJoa4nX2HyVDURoQquLKTzHh8",
       "name": "兵库县",
@@ -24167,6 +24195,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:110",
       "name_en": "Chiba Prefecture",
       "place_id": "ChIJEZUb1l-bImARvnvg_9t3thw",
       "name": "千叶县",
@@ -24396,6 +24425,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:73",
       "name_en": "Toyama Prefecture",
       "place_id": "ChIJSca2CRSS918Rc1GBWMBBk3w",
       "name": "富山县",
@@ -25766,6 +25796,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:33",
       "name_en": "Tokyo",
       "place_id": "ChIJ51cu8IcbXWARiRtXIothAS4",
       "name": "东京",
@@ -25947,6 +25978,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:80",
       "name_en": "Saitama Prefecture",
       "place_id": "ChIJ6QF7R40qGWARbFKAqmcS2f4",
       "name": "埼玉县",
@@ -27402,6 +27434,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:71",
       "name_en": "Yamaguchi Prefecture",
       "place_id": "ChIJ_Y9adhnHRDURcOJUU8K8DEk",
       "name": "山口县",
@@ -27805,6 +27838,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:109",
       "name_en": "Fukushima Prefecture",
       "place_id": "ChIJL9XcbYEEIGARXEbW0MGmHzQ",
       "name": "福岛县",
@@ -28269,6 +28303,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:96",
       "name_en": "Ishikawa Prefecture",
       "place_id": "ChIJ7xq8wV5-8V8RtJoYjRM81Es",
       "name": "石川县",
@@ -28690,6 +28725,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:102",
       "name_en": "Fukui Prefecture",
       "place_id": "ChIJEb6scKhV_18RYA7nHjFfIQo",
       "name": "福井县",
@@ -30338,6 +30374,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:103",
       "name_en": "Ehime Prefecture",
       "place_id": "ChIJraqWR5CVTzUR272f78CTlP8",
       "name": "爱媛县",
@@ -30583,6 +30620,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:86",
       "name_en": "Nara Prefecture",
       "place_id": "ChIJ0yeFNyrHBmARcsHp9gNgR-o",
       "name": "奈良县",
@@ -31527,6 +31565,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:78",
       "name_en": "Shimane Prefecture",
       "place_id": "ChIJocsETn0DWzURzBYpE2fXNC0",
       "name": "岛根县",
@@ -32223,6 +32262,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:107",
       "name_en": "Iwate Prefecture",
       "place_id": "ChIJIzoJ7dCQhV8RbEB_6H6BLGY",
       "name": "岩手县",
@@ -32487,6 +32527,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:74",
       "name_en": "Tottori Prefecture",
       "place_id": "ChIJB0-MsELXVTUR7pLgQAxBLzs",
       "name": "鸟取县",
@@ -32960,6 +33001,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:75",
       "name_en": "Tokushima Prefecture",
       "place_id": "ChIJszfXrltNUjURDDHPZPlj3f0",
       "name": "德岛县",
@@ -35026,6 +35068,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:94",
       "name_en": "Kagoshima Prefecture",
       "place_id": "ChIJA4AW0cJbGDURcNZa6PLRr40",
       "name": "鹿儿岛县",
@@ -35610,6 +35653,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:85",
       "name_en": "Niigata Prefecture",
       "place_id": "ChIJATtK2PaFjF8RSPPdfITZi7Q",
       "name": "新泻县",
@@ -36290,6 +36334,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:92",
       "name_en": "Kōchi Prefecture",
       "place_id": "ChIJa2Hq0TSpSDURow2-nqQtVKA",
       "name": "高知县",
@@ -36791,6 +36836,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:89",
       "name_en": "Miyazaki Prefecture",
       "place_id": "ChIJYfx_FietODURKhlreMr3-Cg",
       "name": "宫崎县",
@@ -37266,6 +37312,7 @@
     },
     "type": "Feature",
     "properties": {
+      "guid": "State:93",
       "name_en": "Kanagawa Prefecture",
       "place_id": "ChIJq9Rn-8dUGGARViMnQtCc9xE",
       "name": "神奈川县",
