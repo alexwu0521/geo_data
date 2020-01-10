@@ -14,7 +14,7 @@ if __name__ == '__main__':
     new_coords = []
     if fe['geometry']['type'] == 'Polygon':
       for linering in coords:
-        if len(linering) < 40:
+        if len(linering) < 200:
           new_coords.append(linering)
           continue
         nl = []
@@ -39,7 +39,6 @@ if __name__ == '__main__':
             nl.append(nl[0])
           np.append(nl)
         new_coords.append(np)
-    print new_coords
     fe['geometry']['coordinates'] = new_coords
 
     tf = open("./tf.geojson", 'wb')
