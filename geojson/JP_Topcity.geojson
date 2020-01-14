@@ -400,10 +400,10 @@
       "center": "139.5466731, 35.3192128",
       "state_guid": "State:93",
       "place_id": "ChIJGVasgJtFGGARAiWfOXp0AFc",
-      "full_name": "鎌倉市",
-      "query": "鎌倉市, 神奈川県, Japan",
+      "name": "镰仓市",
+      "query": "镰仓市, 神奈川县, Japan",
       "name_en": "Kamakura",
-      "state_name": "神奈川県"
+      "state_name": "神奈川县"
     }
   }, {
     "geometry": {
@@ -482,10 +482,10 @@
       "center": "139.6379639, 35.4436739",
       "state_guid": "State:93",
       "place_id": "ChIJCWW2u-xbGGARAFQoYPaDlgY",
-      "full_name": "横浜市",
-      "query": "横浜市, 神奈川県, Japan",
+      "name": "横滨市",
+      "query": "横滨市, 神奈川县, Japan",
       "name_en": "Yokohama",
-      "state_name": "神奈川県"
+      "state_name": "神奈川县"
     }
   }, {
     "geometry": {
@@ -553,10 +553,10 @@
       "center": "139.7029125, 35.5308325",
       "state_guid": "State:93",
       "place_id": "ChIJV1C9AXtfGGARy9PPyhfzyYg",
-      "full_name": "川崎市",
-      "query": "川崎市, 神奈川県, Japan",
+      "name": "川崎市",
+      "query": "川崎市, 神奈川县, Japan",
       "name_en": "Kawasaki",
-      "state_name": "神奈川県"
+      "state_name": "神奈川县"
     }
   }, {
     "geometry": {
@@ -630,10 +630,10 @@
       "center": "134.0465405, 34.342542",
       "state_guid": "State:95",
       "place_id": "ChIJ30eNVMXBUzURG_cenNQp9HI",
-      "full_name": "高松市",
-      "query": "高松市, 香川県, Japan",
+      "name": "高松市",
+      "query": "高松市, 香川县, Japan",
       "name_en": "Takamatsu",
-      "state_name": "香川県"
+      "state_name": "香川县"
     }
   }, {
     "geometry": {
@@ -716,7 +716,7 @@
       "center": "135.5022535, 34.6937249",
       "state_guid": "State:25",
       "place_id": "ChIJ4eIGNFXmAGAR5y9q5G7BW8U",
-      "full_name": "大阪市",
+      "name": "大阪市",
       "query": "大阪市, 大阪府, Japan",
       "name_en": "Osaka",
       "state_name": "大阪府"
@@ -795,7 +795,7 @@
       "center": "141.3544507, 43.0617713",
       "state_guid": "State:57",
       "place_id": "ChIJMzaXWnXUCl8R1bqHRp1-kzM",
-      "full_name": "札幌市",
+      "name": "札幌市",
       "query": "札幌市, 北海道, Japan",
       "name_en": "Sapporo",
       "state_name": "北海道"
@@ -906,10 +906,10 @@
       "center": "136.9065571, 35.1814506",
       "state_guid": "State:104",
       "place_id": "ChIJZSN7EJ5wA2ARUrPO6NQilio",
-      "full_name": "名古屋市",
-      "query": "名古屋市, 愛知県, Japan",
+      "name": "名古屋市",
+      "query": "名古屋市, 爱知县, Japan",
       "name_en": "Nagoya",
-      "state_name": "愛知県"
+      "state_name": "爱知县"
     }
   }, {
     "geometry": {
@@ -997,10 +997,10 @@
       "center": "130.4016888, 33.5901838",
       "state_guid": "State:101",
       "place_id": "ChIJKYSE6aHtQTURg4c5NplyCvY",
-      "full_name": "福岡市",
-      "query": "福岡市, 福岡県, Japan",
+      "name": "福冈市",
+      "query": "福冈市, 福冈县, Japan",
       "name_en": "Fukuoka",
-      "state_name": "福岡県"
+      "state_name": "福冈县"
     }
   }, {
     "geometry": {
@@ -1552,10 +1552,10 @@
       "center": "127.6790208, 26.2125758",
       "state_guid": "State:82",
       "place_id": "ChIJi7WmQXFp5TQRmF5YFvav2Cw",
-      "full_name": "那覇市",
-      "query": "那覇市, 沖縄県, Japan",
+      "name": "那霸市",
+      "query": "那霸市, 冲绳县, Japan",
       "name_en": "Naha",
-      "state_name": "沖縄県"
+      "state_name": "冲绳县"
     }
   }, {
     "geometry": {
@@ -2017,10 +2017,10 @@
       "center": "127.8056058, 26.3343533",
       "state_guid": "State:82",
       "place_id": "ChIJ11onrB4O5TQRKBXBjYNxxTM",
-      "full_name": "沖縄市",
-      "query": "沖縄市, 沖縄県, Japan",
+      "name": "沖绳市",
+      "query": "沖绳市, 沖绳县, Japan",
       "name_en": "Okinawa",
-      "state_name": "沖縄県"
+      "state_name": "沖绳县"
     }
   }]
 }
