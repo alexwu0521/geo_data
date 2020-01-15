@@ -400,8 +400,8 @@
       "center": "139.5466731, 35.3192128",
       "state_guid": "State:93",
       "place_id": "ChIJGVasgJtFGGARAiWfOXp0AFc",
-      "name": "镰仓市",
-      "query": "镰仓市, 神奈川县, Japan",
+      "name": "镰仓",
+      "query": "镰仓, 神奈川县, Japan",
       "name_en": "Kamakura",
       "state_name": "神奈川县"
     }
@@ -748,8 +748,8 @@
       "center": "139.1069355, 35.2323825",
       "state_guid": "State:93",
       "place_id": "ChIJe9yyYAyiGWARJnuXrBe9BSY",
-      "name": "箱根町",
-      "query": "箱根町, 神奈川县, Japan",
+      "name": "箱根",
+      "query": "箱根, 神奈川县, Japan",
       "name_en": "Hakone",
       "state_name": "神奈川县"
     }
@@ -830,8 +830,8 @@
       "center": "139.6379639, 35.4436739",
       "state_guid": "State:93",
       "place_id": "ChIJCWW2u-xbGGARAFQoYPaDlgY",
-      "name": "横滨市",
-      "query": "横滨市, 神奈川县, Japan",
+      "name": "横滨",
+      "query": "横滨, 神奈川县, Japan",
       "name_en": "Yokohama",
       "state_name": "神奈川县"
     }
@@ -2844,8 +2844,8 @@
       "center": "139.7029125, 35.5308325",
       "state_guid": "State:93",
       "place_id": "ChIJV1C9AXtfGGARy9PPyhfzyYg",
-      "name": "川崎市",
-      "query": "川崎市, 神奈川县, Japan",
+      "name": "川崎",
+      "query": "川崎, 神奈川县, Japan",
       "name_en": "Kawasaki",
       "state_name": "神奈川县"
     }
@@ -2921,8 +2921,8 @@
       "center": "134.0465405, 34.342542",
       "state_guid": "State:95",
       "place_id": "ChIJ30eNVMXBUzURG_cenNQp9HI",
-      "name": "高松市",
-      "query": "高松市, 香川县, Japan",
+      "name": "高松",
+      "query": "高松, 香川县, Japan",
       "name_en": "Takamatsu",
       "state_name": "香川县"
     }
@@ -3407,8 +3407,8 @@
       "center": "135.7681489, 35.011564",
       "state_guid": "State:20",
       "place_id": "ChIJ8cM8zdaoAWARPR27azYdlsA",
-      "name": "京都市",
-      "query": "京都市, 京都府, Japan",
+      "name": "京都",
+      "query": "京都, 京都府, Japan",
       "name_en": "Kyoto",
       "state_name": "京都府"
     }
@@ -3571,8 +3571,8 @@
       "center": "135.5557281, 34.5036838",
       "state_guid": "State:25",
       "place_id": "ChIJYTKA7hvXAGARj3hm1l6tmFY",
-      "name": "大阪狭山市",
-      "query": "大阪狭山市, 大阪府, Japan",
+      "name": "大阪狭山",
+      "query": "大阪狭山, 大阪府, Japan",
       "name_en": "Osakasayama",
       "state_name": "大阪府"
     }
@@ -5394,8 +5394,8 @@
       "center": "135.5022535, 34.6937249",
       "state_guid": "State:25",
       "place_id": "ChIJ4eIGNFXmAGAR5y9q5G7BW8U",
-      "name": "大阪市",
-      "query": "大阪市, 大阪府, Japan",
+      "name": "大阪",
+      "query": "大阪, 大阪府, Japan",
       "name_en": "Osaka",
       "state_name": "大阪府"
     }
@@ -5758,8 +5758,8 @@
       "center": "141.3544507, 43.0617713",
       "state_guid": "State:57",
       "place_id": "ChIJMzaXWnXUCl8R1bqHRp1-kzM",
-      "name": "札幌市",
-      "query": "札幌市, 北海道, Japan",
+      "name": "札幌",
+      "query": "札幌, 北海道, Japan",
       "name_en": "Sapporo",
       "state_name": "北海道"
     }
@@ -5869,8 +5869,8 @@
       "center": "136.9065571, 35.1814506",
       "state_guid": "State:104",
       "place_id": "ChIJZSN7EJ5wA2ARUrPO6NQilio",
-      "name": "名古屋市",
-      "query": "名古屋市, 爱知县, Japan",
+      "name": "名古屋",
+      "query": "名古屋, 爱知县, Japan",
       "name_en": "Nagoya",
       "state_name": "爱知县"
     }
@@ -5960,8 +5960,8 @@
       "center": "130.4016888, 33.5901838",
       "state_guid": "State:101",
       "place_id": "ChIJKYSE6aHtQTURg4c5NplyCvY",
-      "name": "福冈市",
-      "query": "福冈市, 福冈县, Japan",
+      "name": "福冈",
+      "query": "福冈, 福冈县, Japan",
       "name_en": "Fukuoka",
       "state_name": "福冈县"
     }
@@ -6711,8 +6711,8 @@
       "center": "138.7551994, 35.4973138",
       "state_guid": "State:70",
       "place_id": "ChIJGyRHiGvgG2ARRmIMgHRWc1w",
-      "name": "富士河口湖町",
-      "query": "富士河口湖町, 山梨县, Japan",
+      "name": "富士河口湖",
+      "query": "富士河口湖, 山梨县, Japan",
       "name_en": "Fujikawaguchiko",
       "state_name": "山梨县"
     }
@@ -7266,8 +7266,8 @@
       "center": "127.6790208, 26.2125758",
       "state_guid": "State:82",
       "place_id": "ChIJi7WmQXFp5TQRmF5YFvav2Cw",
-      "name": "那覇市",
-      "query": "那覇市, 沖绳县, Japan",
+      "name": "那覇",
+      "query": "那覇, 沖绳县, Japan",
       "name_en": "Naha",
       "state_name": "沖绳县"
     }
@@ -7731,8 +7731,8 @@
       "center": "127.8056058, 26.3343533",
       "state_guid": "State:82",
       "place_id": "ChIJ11onrB4O5TQRKBXBjYNxxTM",
-      "name": "沖绳市",
-      "query": "沖绳市, 沖绳县, Japan",
+      "name": "沖绳",
+      "query": "沖绳, 沖绳县, Japan",
       "name_en": "Okinawa",
       "state_name": "沖绳县"
     }
