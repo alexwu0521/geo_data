@@ -750,7 +750,7 @@
       "place_id": "ChIJe9yyYAyiGWARJnuXrBe9BSY",
       "name": "箱根町",
       "query": "箱根町, 神奈川县, Japan",
-      "name_en": "Hakone, Ashigarashimo District",
+      "name_en": "Hakone",
       "state_name": "神奈川县"
     }
   }, {
@@ -5870,9 +5870,9 @@
       "state_guid": "State:104",
       "place_id": "ChIJZSN7EJ5wA2ARUrPO6NQilio",
       "name": "名古屋市",
-      "query": "名古屋市, 愛知县, Japan",
+      "query": "名古屋市, 爱知县, Japan",
       "name_en": "Nagoya",
-      "state_name": "愛知县"
+      "state_name": "爱知县"
     }
   }, {
     "geometry": {
@@ -6713,7 +6713,7 @@
       "place_id": "ChIJGyRHiGvgG2ARRmIMgHRWc1w",
       "name": "富士河口湖町",
       "query": "富士河口湖町, 山梨县, Japan",
-      "name_en": "Fujikawaguchiko, Minamitsuru District",
+      "name_en": "Fujikawaguchiko",
       "state_name": "山梨县"
     }
   }, {
