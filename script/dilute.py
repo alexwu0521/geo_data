@@ -42,6 +42,6 @@ if __name__ == '__main__':
     fe['geometry']['coordinates'] = new_coords
 
     tf = open("./tf.geojson", 'wb')
-    tf.write(json.dumps(s, encoding="UTF-8", ensure_ascii=False).encode('utf-8')))
+    tf.write(json.dumps(s, encoding="UTF-8", ensure_ascii=False).encode('utf-8'))
     tf.flush()
     tf.close()
