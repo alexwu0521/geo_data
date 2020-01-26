@@ -5,7 +5,6 @@ import sys
 import requests
 from geomet import wkt
 
-TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJub2RlX3BvbGljeV9pZCI6MTEsImVkZ2VfcG9saWN5X2lkIjoxMywiZXhwIjoxNTc5MzcyNDY2LCJpYXQiOjE1NzkxMTMyNjYsImVtYWlsIjoieGlhb3dlaS53dUBhaXJibmIuY29tIn0.X1OAr_LDT15PSscW38t-Zs1igFuqrAfE9zcCvdnhOWM"
 HOST = "https://matcha.d.musta.ch"
 MATCHA_SEARCH_URI = "%s/Matcha/searchNodesInDb" % HOST
 MATCHA_EDGE_CREATION_URI = "%s/Matcha/createEdge" % HOST
@@ -72,8 +71,17 @@ if __name__ == '__main__':
       parent_guid = feature['properties']['state_guid']
     node_guid = get_node_by_place_id(place_id, t)
     if not node_guid:
-      print "unexist node", feature['properties']['name']
-      continue
+      attrs = {}
+      attrs["name"] = feature['properties']['name_en']
+      attrs["centerLat"] = feature['properties']['center'].split(',')[1].strip()
+      attrs["centerLng"] = feature['properties']['center'].split(',')[0].strip()
+      attrs["googlePlaceId"] = place_id
+      attrs["translatedName"] = {"zh": feature['properties']['name']}
+      attrs_key =  "%sAttributes" % t.lower()
+      node_guid = create_node(t.lower(), {attrs_key: attrs})
+      if not node_guid:
+        print "unexist node", feature['properties']['name']
+        continue
     located_in_edge = get_edge(node_guid, "LOCATED_IN", ["CHINA"])
     if not located_in_edge:
       r = create_edge(node_guid, parent_guid, "LOCATED_IN", "CHINA")
